@@ -1,0 +1,38 @@
+C:\Users\Febrovic\Desktop\Data Storage\Data Storage\bin\Debug\Data Storage.exe.config
+C:\Users\Febrovic\Desktop\Data Storage\Data Storage\bin\Debug\Data Storage.exe
+C:\Users\Febrovic\Desktop\Data Storage\Data Storage\bin\Debug\Data Storage.pdb
+C:\Users\Febrovic\Desktop\Data Storage\Data Storage\obj\Debug\Data Storage.csprojResolveAssemblyReference.cache
+C:\Users\Febrovic\Desktop\Data Storage\Data Storage\obj\Debug\Data_Storage.Form1.resources
+C:\Users\Febrovic\Desktop\Data Storage\Data Storage\obj\Debug\Data_Storage.Properties.Resources.resources
+C:\Users\Febrovic\Desktop\Data Storage\Data Storage\obj\Debug\Data Storage.csproj.GenerateResource.Cache
+C:\Users\Febrovic\Desktop\Data Storage\Data Storage\obj\Debug\Data Storage.exe
+C:\Users\Febrovic\Desktop\Data Storage\Data Storage\obj\Debug\Data Storage.pdb
+D:\Ahmed Only\MSA\Data Storage\Data Storage\bin\Debug\Data Storage.exe.config
+D:\Ahmed Only\MSA\Data Storage\Data Storage\obj\Debug\Data Storage.exe
+D:\Ahmed Only\MSA\Data Storage\Data Storage\obj\Debug\Data Storage.pdb
+D:\Ahmed Only\MSA\Data Storage\Data Storage\bin\Debug\Data Storage.exe
+D:\Ahmed Only\MSA\Data Storage\Data Storage\bin\Debug\Data Storage.pdb
+D:\Ahmed Only\MSA\Data Storage\Data Storage\obj\Debug\Data Storage.csprojResolveAssemblyReference.cache
+D:\Ahmed Only\MSA\Data Storage\Data Storage\obj\Debug\Data_Storage.Form1.resources
+D:\Ahmed Only\MSA\Data Storage\Data Storage\obj\Debug\Data_Storage.Properties.Resources.resources
+D:\Ahmed Only\MSA\Data Storage\Data Storage\obj\Debug\Data Storage.csproj.GenerateResource.Cache
+D:\MSA\New folder\2\Data Storage\bin\Debug\Data Storage.exe.config
+D:\MSA\New folder\2\Data Storage\bin\Debug\Data Storage.exe
+D:\MSA\New folder\2\Data Storage\bin\Debug\Data Storage.pdb
+D:\MSA\New folder\2\Data Storage\obj\Debug\Data Storage.csprojResolveAssemblyReference.cache
+D:\MSA\New folder\2\Data Storage\obj\Debug\Data_Storage.Form1.resources
+D:\MSA\New folder\2\Data Storage\obj\Debug\Data_Storage.Properties.Resources.resources
+D:\MSA\New folder\2\Data Storage\obj\Debug\Data Storage.csproj.GenerateResource.Cache
+D:\MSA\New folder\2\Data Storage\obj\Debug\Data Storage.csproj.CoreCompileInputs.cache
+D:\MSA\New folder\2\Data Storage\obj\Debug\Data Storage.exe
+D:\MSA\New folder\2\Data Storage\obj\Debug\Data Storage.pdb
+D:\College\MSA\data storage\two data storage\Data Storage\bin\Debug\Data Storage.exe.config
+D:\College\MSA\data storage\two data storage\Data Storage\bin\Debug\Data Storage.exe
+D:\College\MSA\data storage\two data storage\Data Storage\bin\Debug\Data Storage.pdb
+D:\College\MSA\data storage\two data storage\Data Storage\obj\Debug\Data Storage.csprojAssemblyReference.cache
+D:\College\MSA\data storage\two data storage\Data Storage\obj\Debug\Data_Storage.Form1.resources
+D:\College\MSA\data storage\two data storage\Data Storage\obj\Debug\Data_Storage.Properties.Resources.resources
+D:\College\MSA\data storage\two data storage\Data Storage\obj\Debug\Data Storage.csproj.GenerateResource.cache
+D:\College\MSA\data storage\two data storage\Data Storage\obj\Debug\Data Storage.csproj.CoreCompileInputs.cache
+D:\College\MSA\data storage\two data storage\Data Storage\obj\Debug\Data Storage.exe
+D:\College\MSA\data storage\two data storage\Data Storage\obj\Debug\Data Storage.pdb
